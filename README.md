@@ -1,0 +1,2 @@
+# wifiphisher-error
+Wifiphisher error
